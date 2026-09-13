@@ -5,6 +5,8 @@ CREATE DATABASE Datawarehouse;
 
 USE Datawarehouse;
 
+----Create the SCHEMAS
+
 CREATE SCHEMA Bronze
 GO
 CREATE SCHEMA silver
